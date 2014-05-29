@@ -1,0 +1,4 @@
+name: MineTrunkHub
+main: UK.MineTrunk.Main
+version: 0.1
+commands:
